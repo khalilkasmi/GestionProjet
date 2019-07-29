@@ -1,4 +1,4 @@
-# GestionProjet / JAVA EE / IBERNATE / MYSQL & TOMCAT / BOOTSTRAP
+# GestionProjet / JAVA EE / HIBERNATE / MYSQL & TOMCAT / BOOTSTRAP
 application de gestion des projets (projects managment app)
 Les fonctionnalités principales à développer sont : 
 
